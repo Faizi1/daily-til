@@ -7,7 +7,7 @@ Each entry is a problem to solve — check it off and add real notes when you so
 ## 2026-09-06 — Arrays
 **Problem:** [Two Sum](https://leetcode.com/problems/two-sum/)
 
-- [ ] Solved
+- [Done] Solved - 9/7/2026 - 6:55 PM
 - Notes:
 
 ---
