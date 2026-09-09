@@ -27,3 +27,11 @@ Each entry is a problem to solve — check it off and add real notes when you so
 - Notes:
 
 ---
+
+## 2026-09-09 — Arrays
+**Problem:** [Maximum Subarray (Kadane's)](https://leetcode.com/problems/maximum-subarray/)
+
+- [ ] Solved
+- Notes:
+
+---
