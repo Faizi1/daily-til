@@ -107,3 +107,11 @@ Each entry is a problem to solve — check it off and add real notes when you so
 - Notes:
 
 ---
+
+## 2026-09-19 — Linked List
+**Problem:** [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
+- [ ] Solved
+- Notes:
+
+---
