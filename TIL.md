@@ -171,3 +171,11 @@ Each entry is a problem to solve — check it off and add real notes when you so
 - Notes:
 
 ---
+
+## 2026-09-27 — Dynamic Programming
+**Problem:** [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+
+- [ ] Solved
+- Notes:
+
+---
