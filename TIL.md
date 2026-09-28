@@ -179,3 +179,11 @@ Each entry is a problem to solve — check it off and add real notes when you so
 - Notes:
 
 ---
+
+## 2026-09-28 — Dynamic Programming
+**Problem:** [Coin Change](https://leetcode.com/problems/coin-change/)
+
+- [ ] Solved
+- Notes:
+
+---
