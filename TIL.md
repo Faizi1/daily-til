@@ -219,3 +219,11 @@ Each entry is a problem to solve — check it off and add real notes when you so
 - Notes:
 
 ---
+
+## 2026-10-03 — Heaps/Stacks
+**Problem:** [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+
+- [ ] Solved
+- Notes:
+
+---
