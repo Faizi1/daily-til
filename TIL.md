@@ -243,3 +243,11 @@ Each entry is a problem to solve — check it off and add real notes when you so
 - Notes:
 
 ---
+
+## 2026-10-07 — System Design / Backend
+**Problem:** [Design a rate limiter (token bucket vs sliding window)](https://leetcode.com/discuss/interview-question/system-design/)
+
+- [ ] Solved
+- Notes:
+
+---
