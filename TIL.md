@@ -259,3 +259,11 @@ Each entry is a problem to solve — check it off and add real notes when you so
 - Notes:
 
 ---
+
+## 2026-10-09 — Django/Backend
+**Problem:** [Explain Django ORM select_related vs prefetch_related](https://docs.djangoproject.com/en/stable/ref/models/querysets/#select-related)
+
+- [ ] Solved
+- Notes:
+
+---
