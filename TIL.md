@@ -291,3 +291,11 @@ Each entry is a problem to solve — check it off and add real notes when you so
 - Notes:
 
 ---
+
+## 2026-10-13 — Arrays
+**Problem:** [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+
+- [ ] Solved
+- Notes:
+
+---
