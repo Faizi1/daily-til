@@ -323,3 +323,11 @@ Each entry is a problem to solve — check it off and add real notes when you so
 - Notes:
 
 ---
+
+## 2026-10-17 — Strings
+**Problem:** [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+
+- [ ] Solved
+- Notes:
+
+---
