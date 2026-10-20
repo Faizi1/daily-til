@@ -347,3 +347,11 @@ Each entry is a problem to solve — check it off and add real notes when you so
 - Notes:
 
 ---
+
+## 2026-10-20 — Strings
+**Problem:** [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+
+- [ ] Solved
+- Notes:
+
+---
