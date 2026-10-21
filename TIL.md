@@ -355,3 +355,11 @@ Each entry is a problem to solve — check it off and add real notes when you so
 - Notes:
 
 ---
+
+## 2026-10-21 — Linked List
+**Problem:** [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+
+- [ ] Solved
+- Notes:
+
+---
