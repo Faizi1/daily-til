@@ -395,3 +395,11 @@ Each entry is a problem to solve — check it off and add real notes when you so
 - Notes:
 
 ---
+
+## 2026-10-26 — Trees
+**Problem:** [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+
+- [ ] Solved
+- Notes:
+
+---
