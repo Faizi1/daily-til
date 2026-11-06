@@ -483,3 +483,11 @@ Each entry is a problem to solve — check it off and add real notes when you so
 - Notes:
 
 ---
+
+## 2026-11-06 — Heaps/Stacks
+**Problem:** [Min Stack](https://leetcode.com/problems/min-stack/)
+
+- [ ] Solved
+- Notes:
+
+---
