@@ -523,3 +523,11 @@ Each entry is a problem to solve — check it off and add real notes when you so
 - Notes:
 
 ---
+
+## 2026-11-11 — System Design / Backend
+**Problem:** [Design a URL shortener](https://leetcode.com/discuss/interview-question/system-design/124658/)
+
+- [ ] Solved
+- Notes:
+
+---
