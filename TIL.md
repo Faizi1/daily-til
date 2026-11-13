@@ -539,3 +539,11 @@ Each entry is a problem to solve — check it off and add real notes when you so
 - Notes:
 
 ---
+
+## 2026-11-13 — Django/Backend
+**Problem:** [Explain Celery task retries and idempotency](https://docs.celeryq.dev/en/stable/userguide/tasks.html#retrying)
+
+- [ ] Solved
+- Notes:
+
+---
