@@ -579,3 +579,11 @@ Each entry is a problem to solve — check it off and add real notes when you so
 - Notes:
 
 ---
+
+## 2026-11-18 — Arrays
+**Problem:** [3Sum](https://leetcode.com/problems/3sum/)
+
+- [ ] Solved
+- Notes:
+
+---
