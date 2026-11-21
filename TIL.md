@@ -603,3 +603,11 @@ Each entry is a problem to solve — check it off and add real notes when you so
 - Notes:
 
 ---
+
+## 2026-11-21 — Strings
+**Problem:** [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+
+- [ ] Solved
+- Notes:
+
+---
