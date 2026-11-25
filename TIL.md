@@ -635,3 +635,11 @@ Each entry is a problem to solve — check it off and add real notes when you so
 - Notes:
 
 ---
+
+## 2026-11-25 — Linked List
+**Problem:** [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+
+- [ ] Solved
+- Notes:
+
+---
