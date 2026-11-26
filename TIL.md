@@ -643,3 +643,11 @@ Each entry is a problem to solve — check it off and add real notes when you so
 - Notes:
 
 ---
+
+## 2026-11-26 — Linked List
+**Problem:** [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+
+- [ ] Solved
+- Notes:
+
+---
